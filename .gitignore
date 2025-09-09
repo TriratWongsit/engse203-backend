@@ -22,3 +22,10 @@ pids/
 # OS
 .DS_Store
 Thumbs.db
+
+node_modules/
+.env
+.DS_Store
+*.log
+logs/
+dist/
